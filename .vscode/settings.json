@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "SignImage48x48"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
